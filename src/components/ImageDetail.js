@@ -9,8 +9,6 @@ const ImageDetail = ({ imageSource, title, imageScore }) => {
         </View>
 }
 
-
-
 const styles = StyleSheet.create({});
 
 export default ImageDetail;
